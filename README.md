@@ -1,6 +1,6 @@
-<h1>Hi, I'm Romualdas! <br/><a href="www.linkedin.com/in/romualdas-lubys-515621124">Business Intelligence | Financial analyst</a></h1>
+<h2>Hi, I'm Romualdas! <br/><a href="www.linkedin.com/in/romualdas-lubys-515621124">Business Intelligence | Financial analyst</a></h1>
 
-<h2>👨‍💻 Business Intelligence Projects:</h2>
+<h3>👨‍💻 Business Intelligence Projects:</h2>
 
 - <b>Power BI</b>
 
