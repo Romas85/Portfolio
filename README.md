@@ -3,7 +3,7 @@
 <h3>👨‍💻 Business Intelligence Projects:</h2>
 
 - <b>Power BI</b>
-
+  - [Data models] 
 - <b>SQL</b>
   - [Database creation and manipulation.](https://github.com/Romas85/SQL_project)
 - <b>Python</b>
